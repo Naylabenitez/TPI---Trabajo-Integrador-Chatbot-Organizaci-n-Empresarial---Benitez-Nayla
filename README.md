@@ -1,5 +1,5 @@
 # Chatbot de Gestión de Vacaciones
-# TPI---Trabajo-Integrador-Chatbot-Organizaci-n-Empresarial---Benitez-Nayla
+# TPI---Trabajo-Integrador-Chatbot-Organización-Empresarial---Benitez-Nayla
 Trabajo Práctico Integrador - Organización Empresarial
 BENITEZ NAYLA
 
