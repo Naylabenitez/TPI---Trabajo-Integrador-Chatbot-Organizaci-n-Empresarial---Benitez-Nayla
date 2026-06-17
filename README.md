@@ -230,7 +230,7 @@ python src/chatbot_vacaciones.py
 - Código fuente del chatbot.
 - Archivo CSV utilizado como base de datos.
 - Casos de prueba E2E.
-- Documentación académica del proyecto.
+- Documentación académica del proyecto. https://drive.google.com/file/d/1WyhfyQJrvTnXxg1XJa2eX8hBAjRqRdXw/view?usp=sharing 
 
 ---
 
